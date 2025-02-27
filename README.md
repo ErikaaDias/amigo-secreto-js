@@ -26,7 +26,7 @@ Este projeto é um **sorteio de amigo secreto** desenvolvido em **JavaScript**, 
 <!--END_SECTION:waka-->
 
 ## 🎥 Demonstração do Projeto
-[![Assista ao vídeo]] (https://youtu.be/ckOzgST-x1Q?si=-tJ9o-JpEaWScCEm)
+Assista ao vídeo de demonstração!: (https://youtu.be/ckOzgST-x1Q?si=-tJ9o-JpEaWScCEm)
 
 ## Como usar
 1. Adicione os nomes dos participantes no campo de entrada.
