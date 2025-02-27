@@ -20,7 +20,7 @@ Este projeto é um **sorteio de amigo secreto** desenvolvido em **JavaScript**, 
 
 ## Estatísticas de Linguagem
 
-![GitHub Linguagens](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
+![GitHub Linguagens](https://img.shields.io/github/languages/top/ErikaaDias/amigo-secreto-js)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
