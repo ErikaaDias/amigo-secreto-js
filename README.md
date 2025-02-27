@@ -25,6 +25,9 @@ Este projeto é um **sorteio de amigo secreto** desenvolvido em **JavaScript**, 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## 🎥 Demonstração do Projeto
+[![Assista ao vídeo]] (https://youtu.be/ckOzgST-x1Q?si=-tJ9o-JpEaWScCEm)
+
 ## Como usar
 1. Adicione os nomes dos participantes no campo de entrada.
 2. Clique em "Sortear" para escolher um nome aleatório.
@@ -34,3 +37,5 @@ Este projeto é um **sorteio de amigo secreto** desenvolvido em **JavaScript**, 
 - **Eventos de fim de ano**: Sorteie os amigos secretos para o Natal ou Réveillon.
 - **Festas**: Use para brincadeiras ou dinâmicas em grupo.
 - **Sorteios em geral**: Adapte para qualquer tipo de sorteio que necessite de aleatoriedade.
+
+
