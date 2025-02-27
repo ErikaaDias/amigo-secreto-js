@@ -11,11 +11,11 @@ Este projeto é um **sorteio de amigo secreto** desenvolvido em **JavaScript**, 
 - **Speech (voz)**: O nome sorteado pode ser falado em voz alta, utilizando a Web Speech API (opcional).
 - **Interface simples e intuitiva**: Fácil de usar, com uma experiência amigável para o usuário.
 
-## Tecnologias utilizadas
-- **HTML**: Estrutura da página.
-- **CSS**: Estilização e design.
-- **JavaScript**: Lógica do sorteio e interatividade.
-- **Web Speech API**: Funcionalidade de fala para anunciar o nome sorteado.
+## 🛠️ Tecnologias utilizadas
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-%23007ACC.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ## Como usar
 1. Adicione os nomes dos participantes no campo de entrada.
